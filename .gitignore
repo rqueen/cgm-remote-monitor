@@ -1,5 +1,32 @@
 bower_components/
 node_modules/
 
+
+bundle/bundle.out.js
+
+.vscode/
 .idea/
 *.iml
+my.env
+my.*.env
+*.pem
+
+static/bower_components/
+.*.sw?
+.DS_Store
+
+.vagrant
+/iisnode
+
+# istanbul output
+coverage/
+
+npm-debug.log
+*.heapsnapshot
+
+/tmp
+/.vs
+/cgm-remote-monitor.njsproj
+/cgm-remote-monitor.sln
+/obj/Debug
+/*.bat
